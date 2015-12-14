@@ -1,0 +1,16 @@
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords(GUI).csprojResolveAssemblyReference.cache
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.Form1.resources
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.Properties.Resources.resources
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords(GUI).csproj.GenerateResource.Cache
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\LearnNewWords.exe
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\LearnNewWords.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\BUS.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\DTO.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\DAL.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\System.Data.SQLite.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\BUS.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\DTO.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\DAL.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\bin\Debug\System.Data.SQLite.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.exe
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.pdb

@@ -1,0 +1,12 @@
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\DAL.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\DAL.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\DTO.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\SQLite.NET.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\System.Data.SQLite.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\DTO.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\System.Data.SQLite.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\obj\Debug\DAL.dll
+D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DAL\obj\Debug\DAL.pdb

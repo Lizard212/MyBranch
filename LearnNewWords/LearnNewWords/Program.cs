@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-
+using System.Threading;
 namespace LearnNewWords
 {
     static class Program
@@ -15,7 +15,10 @@ namespace LearnNewWords
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            tword tword = new tword();
+            //Thread t = new Thread(tword.ShowListWord);
+            //Application.Run(tword);
+            Application.Run(new formWord());
         }
     }
 }

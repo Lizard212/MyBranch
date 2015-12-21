@@ -9,3 +9,14 @@ D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\BUS\bin\Debug\DTO.pdb
 D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\BUS\bin\Debug\System.Data.SQLite.pdb
 D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\BUS\obj\Debug\BUS.dll
 D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\BUS\obj\Debug\BUS.pdb
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\BUS.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\BUS.pdb
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\DAL.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\DTO.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\System.Data.SQLite.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\DAL.pdb
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\DTO.pdb
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\bin\Debug\System.Data.SQLite.pdb
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\obj\Debug\BUS.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\BUS\obj\Debug\BUS.pdb

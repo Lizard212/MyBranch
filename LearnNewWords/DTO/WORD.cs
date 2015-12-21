@@ -5,15 +5,16 @@ using System.Text;
 
 namespace DTO
 {
-  public  class WORDS
+  public  class WORD
     {
+
         private int word_id;
         private string word;
         private string category;
         private string mean;
         private string phonetic;
         private string sentence;
-
+        private int word_group_id;
         public string Word
         {
             get
@@ -91,14 +92,20 @@ namespace DTO
                 word_id = value;
             }
         }
-        public WORDS(int _word_id,string _word,string _category,string _phonetic,string _mean, string _sentence)
+
+        public int Word_group_id
         {
-            this.word_id = _word_id;
-            this.word = _word;
-            this.category = _category;
-            this.phonetic = _phonetic;
-            this.mean = _mean;
-            this.sentence = _sentence;
+            get
+            {
+                return word_group_id;
+            }
+
+            set
+            {
+                word_group_id = value;
+            }
         }
+
+
     }
 }

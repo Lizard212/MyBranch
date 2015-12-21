@@ -2,3 +2,7 @@ D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DTO\bin\Debug\DTO.dll
 D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DTO\bin\Debug\DTO.pdb
 D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DTO\obj\Debug\DTO.dll
 D:\OneDrive\CODE\C++\Thread_demo\LearnNewWords\DTO\obj\Debug\DTO.pdb
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\DTO\bin\Debug\DTO.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\DTO\bin\Debug\DTO.pdb
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\DTO\obj\Debug\DTO.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\DTO\obj\Debug\DTO.pdb

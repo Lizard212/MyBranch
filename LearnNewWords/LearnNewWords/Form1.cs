@@ -23,8 +23,9 @@ namespace LearnNewWords
         private void Form1_Load(object sender, EventArgs e)
         {
             LoadListWordGroup();
-            dgvListWordGroup.Rows[1].Cells[2].Value = true;
-           // list_group_checked.Add(2);
+           // dgvListWordGroup.Rows[1].Cells[2].Value = true;
+           // dgvListWordGroup.Rows[2].Cells[2].Value = true;
+            DataGridView_InitCheckbox();
         }
         
         private void LoadListWordGroup()
@@ -187,31 +188,42 @@ namespace LearnNewWords
         public static List<int> list_group_checked; 
         private void dgvListWordGroup_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-           
-            try
-            {
-               
-               // list_group_checked.Clear();
-                
-                if (e.ColumnIndex == 2)
-                {
-                    if (Convert.ToBoolean(dgvListWordGroup.Rows[e.RowIndex].Cells[2].EditedFormattedValue) == true)
-                    {
-                        // list_group_checked.Add(e.RowIndex + 1);
-                        MessageBox.Show((e.RowIndex + 1).ToString());
-                    }
 
-                }
-            }
-            catch (Exception ex)
-            {
+          //  try
+           // {
 
-                MessageBox.Show(ex.ToString());
-            }
-            
-           
+            //    foreach (DataGridViewRow row in dgvListWordGroup.Rows)
+            //    {
+            //        DataGridViewCheckBoxCell check = (DataGridViewCheckBoxCell)row.Cells[2];
+            //        if (check.Value == check.TrueValue)
+            //        {
+                        
+                      
+            //        }
+            //    }
+            //    MessageBox.Show(list_group_checked.Count.ToString());
+
+
+            //}
+            //catch (Exception ex)
+            //{
+
+            //    MessageBox.Show(ex.ToString());
+            //}
+
+
         }
 
+        public void DataGridView_InitCheckbox()
+        {
 
+            foreach (DataGridViewRow row in dgvListWordGroup.Rows)
+            {
+
+                row.Cells[2].Value = true;
+            }
+        }
     }
+
+
 }

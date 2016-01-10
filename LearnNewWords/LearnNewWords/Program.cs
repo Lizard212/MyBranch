@@ -15,7 +15,7 @@ namespace LearnNewWords
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            tword tword = new tword();
+           // tword tword = new tword();
             //Thread t = new Thread(tword.ShowListWord);
             //Application.Run(tword);
             Application.Run(new formWord());

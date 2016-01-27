@@ -18,7 +18,7 @@ namespace LearnNewWords
            // tword tword = new tword();
             //Thread t = new Thread(tword.ShowListWord);
             //Application.Run(tword);
-            Application.Run(new formWord());
+            Application.Run(new Form1());
         }
     }
 }

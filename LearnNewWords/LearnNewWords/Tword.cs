@@ -43,7 +43,7 @@ namespace LearnNewWords
             List<int> list_group_checked = new List<int>();
 
 
-            list_group_checked = formWord.list_group_checked;
+            //list_group_checked = formWord.list_group_checked;
             
            
             
@@ -89,8 +89,8 @@ namespace LearnNewWords
         #region Context menu
         private void addNewToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            formWord formword = new formWord();
-            formword.Show();
+            //formWord formword = new formWord();
+            //formword.Show();
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)

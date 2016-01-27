@@ -25,7 +25,6 @@ D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DTO.pdb
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DAL.pdb
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\System.Data.SQLite.pdb
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords(GUI).csprojResolveAssemblyReference.cache
-D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.formWord.resources
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.Properties.Resources.resources
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords(GUI).csproj.GenerateResource.Cache
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.exe
@@ -34,3 +33,18 @@ D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewW
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\Interop.SpeechLib.dll
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\Interop.SpeechLib.dll
 D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords(GUI).csproj.ResolveComReference.cache
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\obj\Debug\LearnNewWords.Form1.resources
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar2.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.Instrumentation.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.SuperGrid.Design.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.TreeGX.dll
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.DotNetBar2.xml
+D:\OneDrive\CODE\GitHub\MyBranch\LearnNewWords\LearnNewWords\bin\Debug\DevComponents.Instrumentation.xml
